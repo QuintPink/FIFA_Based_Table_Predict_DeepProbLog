@@ -36,12 +36,13 @@ for fdir in os.listdir(dirname):
                 start = False
                 continue
             team_name = row[0]
-            real_team = team_name
-            while real_team not in TeamDict:
-                real_team = input("Give alias for \"" + team_name + "\"?")
-                if real_team == "":
-                    real_team = "not-used"
-            TeamDict[team_name] = real_team
+            if team_name not in TeamDict:
+                real_team = team_name
+                while real_team not in TeamDict:
+                    real_team = input("Give alias for \"" + team_name + "\"?")
+                    if real_team == "":
+                        real_team = "not-used"
+                TeamDict[team_name] = real_team
     
 
 
