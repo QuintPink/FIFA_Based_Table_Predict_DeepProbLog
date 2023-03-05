@@ -1,0 +1,288 @@
+team,pos,season
+Sheffield Wednesday,1,2022-23
+Plymouth Argyle,2,2022-23
+Ipswich Town,3,2022-23
+Bolton Wanderers,4,2022-23
+Derby County,5,2022-23
+Barnsley,6,2022-23
+Wycombe Wanderers,7,2022-23
+Peterborough United,8,2022-23
+Shrewsbury Town,9,2022-23
+Portsmouth,10,2022-23
+Fleetwood Town,11,2022-23
+Exeter City,12,2022-23
+Charlton Athletic,13,2022-23
+Lincoln City,14,2022-23
+Bristol Rovers,15,2022-23
+Port Vale,16,2022-23
+Oxford United,17,2022-23
+Burton Albion,18,2022-23
+Cheltenham Town,19,2022-23
+Morecambe,20,2022-23
+Accrington Stanley,21,2022-23
+Milton Keynes Dons,22,2022-23
+Cambridge United,23,2022-23
+Forest Green Rovers,24,2022-23
+Wigan Athletic,1,2021-22
+Rotherham United,2,2021-22
+Milton Keynes Dons,3,2021-22
+Sheffield Wednesday,4,2021-22
+Sunderland,5,2021-22
+Wycombe Wanderers,6,2021-22
+Plymouth Argyle,7,2021-22
+Oxford United,8,2021-22
+Bolton Wanderers,9,2021-22
+Portsmouth,10,2021-22
+Ipswich Town,11,2021-22
+Accrington Stanley,12,2021-22
+Charlton Athletic,13,2021-22
+Cambridge United,14,2021-22
+Cheltenham Town,15,2021-22
+Burton Albion,16,2021-22
+Lincoln City,17,2021-22
+Shrewsbury Town,18,2021-22
+Morecambe,19,2021-22
+Fleetwood Town,20,2021-22
+Gillingham,21,2021-22
+Doncaster Rovers,22,2021-22
+AFC Wimbledon,23,2021-22
+Crewe Alexandra,24,2021-22
+Hull City,1,2020-21
+Peterborough United,2,2020-21
+Blackpool,3,2020-21
+Sunderland,4,2020-21
+Lincoln City,5,2020-21
+Oxford United,6,2020-21
+Charlton Athletic,7,2020-21
+Portsmouth,8,2020-21
+Ipswich Town,9,2020-21
+Gillingham,10,2020-21
+Accrington Stanley,11,2020-21
+Crewe Alexandra,12,2020-21
+Milton Keynes Dons,13,2020-21
+Doncaster Rovers,14,2020-21
+Fleetwood Town,15,2020-21
+Burton Albion,16,2020-21
+Shrewsbury Town,17,2020-21
+Plymouth Argyle,18,2020-21
+AFC Wimbledon,19,2020-21
+Wigan Athletic,20,2020-21
+Rochdale,21,2020-21
+Northampton Town,22,2020-21
+Swindon Town,23,2020-21
+Bristol Rovers,24,2020-21
+Coventry City,1,2019-20
+Rotherham United,2,2019-20
+Wycombe Wanderers,3,2019-20
+Oxford United,4,2019-20
+Portsmouth,5,2019-20
+Fleetwood Town,6,2019-20
+Peterborough United,7,2019-20
+Sunderland,8,2019-20
+Doncaster Rovers,9,2019-20
+Gillingham,10,2019-20
+Ipswich Town,11,2019-20
+Burton Albion,12,2019-20
+Blackpool,13,2019-20
+Bristol Rovers,14,2019-20
+Shrewsbury Town,15,2019-20
+Lincoln City,16,2019-20
+Accrington Stanley,17,2019-20
+Rochdale,18,2019-20
+Milton Keynes Dons,19,2019-20
+AFC Wimbledon,20,2019-20
+Tranmere Rovers,21,2019-20
+Southend United,22,2019-20
+Bolton Wanderers *,23,2019-20
+Luton Town,1,2018-19
+Barnsley,2,2018-19
+Charlton Athletic,3,2018-19
+Portsmouth,4,2018-19
+Sunderland,5,2018-19
+Doncaster Rovers,6,2018-19
+Peterborough United,7,2018-19
+Coventry City,8,2018-19
+Burton Albion,9,2018-19
+Blackpool,10,2018-19
+Fleetwood Town,11,2018-19
+Oxford United,12,2018-19
+Gillingham,13,2018-19
+Accrington Stanley,14,2018-19
+Bristol Rovers,15,2018-19
+Rochdale,16,2018-19
+Wycombe Wanderers,17,2018-19
+Shrewsbury Town,18,2018-19
+Southend United,19,2018-19
+AFC Wimbledon,20,2018-19
+Plymouth Argyle,21,2018-19
+Walsall,22,2018-19
+Scunthorpe United,23,2018-19
+Bradford City,24,2018-19
+Wigan Athletic,1,2017-18
+Blackburn Rovers,2,2017-18
+Shrewsbury Town,3,2017-18
+Rotherham United,4,2017-18
+Scunthorpe United,5,2017-18
+Charlton Athletic,6,2017-18
+Plymouth Argyle,7,2017-18
+Portsmouth,8,2017-18
+Peterborough United,9,2017-18
+Southend United,10,2017-18
+Bradford City,11,2017-18
+Blackpool,12,2017-18
+Bristol Rovers,13,2017-18
+Fleetwood Town,14,2017-18
+Doncaster Rovers,15,2017-18
+Oxford United,16,2017-18
+Gillingham,17,2017-18
+AFC Wimbledon,18,2017-18
+Walsall,19,2017-18
+Rochdale,20,2017-18
+Oldham Athletic,21,2017-18
+Northampton Town,22,2017-18
+Milton Keynes Dons,23,2017-18
+Bury,24,2017-18
+Sheffield United,1,2016-17
+Bolton Wanderers,2,2016-17
+Scunthorpe United,3,2016-17
+Fleetwood Town,4,2016-17
+Bradford City,5,2016-17
+Millwall,6,2016-17
+Southend United,7,2016-17
+Oxford United,8,2016-17
+Rochdale,9,2016-17
+Bristol Rovers,10,2016-17
+Peterborough United,11,2016-17
+Milton Keynes Dons,12,2016-17
+Charlton Athletic,13,2016-17
+Walsall,14,2016-17
+AFC Wimbledon,15,2016-17
+Northampton Town,16,2016-17
+Oldham Athletic,17,2016-17
+Shrewsbury Town,18,2016-17
+Bury,19,2016-17
+Gillingham,20,2016-17
+Port Vale,21,2016-17
+Swindon Town,22,2016-17
+Coventry City,23,2016-17
+Chesterfield,24,2016-17
+Wigan Athletic,1,2015-16
+Burton Albion,2,2015-16
+Walsall,3,2015-16
+Millwall,4,2015-16
+Bradford City,5,2015-16
+Barnsley,6,2015-16
+Scunthorpe United,7,2015-16
+Coventry City,8,2015-16
+Gillingham,9,2015-16
+Rochdale,10,2015-16
+Sheffield United,11,2015-16
+Port Vale,12,2015-16
+Peterborough United,13,2015-16
+Southend United,14,2015-16
+Swindon Town,15,2015-16
+Bury,16,2015-16
+Oldham Athletic,17,2015-16
+Chesterfield,18,2015-16
+Fleetwood Town,19,2015-16
+Shrewsbury Town,20,2015-16
+Doncaster Rovers,21,2015-16
+Blackpool,22,2015-16
+Colchester United,23,2015-16
+Crewe Alexandra,24,2015-16
+Bristol City,1,2014-15
+Milton Keynes Dons,2,2014-15
+Preston North End,3,2014-15
+Swindon Town,4,2014-15
+Sheffield United,5,2014-15
+Chesterfield,6,2014-15
+Bradford City,7,2014-15
+Rochdale,8,2014-15
+Peterborough United,9,2014-15
+Fleetwood Town,10,2014-15
+Barnsley,11,2014-15
+Gillingham,12,2014-15
+Doncaster Rovers,13,2014-15
+Walsall,14,2014-15
+Oldham Athletic,15,2014-15
+Scunthorpe United,16,2014-15
+Coventry City,17,2014-15
+Port Vale,18,2014-15
+Colchester United,19,2014-15
+Crewe Alexandra,20,2014-15
+Notts County,21,2014-15
+Crawley Town,22,2014-15
+Leyton Orient,23,2014-15
+Yeovil Town,24,2014-15
+Wolverhampton Wanderers,1,2013-14
+Brentford,2,2013-14
+Leyton Orient,3,2013-14
+Rotherham United,4,2013-14
+Preston North End,5,2013-14
+Peterborough United,6,2013-14
+Sheffield United,7,2013-14
+Swindon Town,8,2013-14
+Port Vale,9,2013-14
+Milton Keynes Dons,10,2013-14
+Bradford City,11,2013-14
+Bristol City,12,2013-14
+Walsall,13,2013-14
+Crawley Town,14,2013-14
+Oldham Athletic,15,2013-14
+Colchester United,16,2013-14
+Gillingham,17,2013-14
+Coventry City *,18,2013-14
+Crewe Alexandra,19,2013-14
+Notts County,20,2013-14
+Tranmere Rovers,21,2013-14
+Carlisle United,22,2013-14
+Shrewsbury Town,23,2013-14
+Stevenage,24,2013-14
+Doncaster Rovers,1,2012-13
+Bournemouth,2,2012-13
+Brentford,3,2012-13
+Yeovil Town,4,2012-13
+Sheffield United,5,2012-13
+Swindon Town,6,2012-13
+Leyton Orient,7,2012-13
+Milton Keynes Dons,8,2012-13
+Walsall,9,2012-13
+Crawley Town,10,2012-13
+Tranmere Rovers,11,2012-13
+Notts County,12,2012-13
+Crewe Alexandra,13,2012-13
+Preston North End,14,2012-13
+Coventry City *,15,2012-13
+Shrewsbury Town,16,2012-13
+Carlisle United,17,2012-13
+Stevenage,18,2012-13
+Oldham Athletic,19,2012-13
+Colchester United,20,2012-13
+Scunthorpe United,21,2012-13
+Bury,22,2012-13
+Hartlepool United,23,2012-13
+Portsmouth *,24,2012-13
+Charlton Athletic,1,2011-12
+Sheffield Wednesday,2,2011-12
+Sheffield United,3,2011-12
+Huddersfield Town,4,2011-12
+Milton Keynes Dons,5,2011-12
+Stevenage,6,2011-12
+Notts County,7,2011-12
+Carlisle United,8,2011-12
+Brentford,9,2011-12
+Colchester United,10,2011-12
+Bournemouth,11,2011-12
+Tranmere Rovers,12,2011-12
+Hartlepool United,13,2011-12
+Bury,14,2011-12
+Preston North End,15,2011-12
+Oldham Athletic,16,2011-12
+Yeovil Town,17,2011-12
+Scunthorpe United,18,2011-12
+Walsall,19,2011-12
+Leyton Orient,20,2011-12
+Wycombe Wanderers,21,2011-12
+Chesterfield,22,2011-12
+Exeter City,23,2011-12
+Rochdale,24,2011-12
