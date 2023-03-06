@@ -2,8 +2,8 @@ team,pos,season
 Frosinone,1,2022-23
 Genoa,2,2022-23
 Bari,3,2022-23
-Suditrol,4,2022-23
-Reggina,5,2022-23
+Südtirol,4,2022-23
+Urbs Reggina 1914 ,5,2022-23
 Pisa,6,2022-23
 Cagliari,7,2022-23
 Parma,8,2022-23
@@ -14,15 +14,15 @@ Ternana,12,2022-23
 Cittadella,13,2022-23
 Como,14,2022-23
 Perugia,15,2022-23
-Venezia,16,2022-23
+Venezia FC,16,2022-23
 Benevento,17,2022-23
 Brescia,18,2022-23
 Cosenza,19,2022-23
 SPAL,20,2022-23
 Lecce,1,2021-22
-Cremonese,2,2021-22
+US Cremonese,2,2021-22
 Pisa,3,2021-22
-Monza,4,2021-22
+AC Monza,4,2021-22
 Brescia,5,2021-22
 Ascoli,6,2021-22
 Benevento,7,2021-22
@@ -32,7 +32,7 @@ Ternana,10,2021-22
 Cittadella,11,2021-22
 Parma,12,2021-22
 Como,13,2021-22
-Reggina,14,2021-22
+Urbs Reggina 1914 ,14,2021-22
 SPAL,15,2021-22
 Cosenza,16,2021-22
 Vicenza,17,2021-22
@@ -41,17 +41,17 @@ Crotone,19,2021-22
 Pordenone Calcio,20,2021-22
 Empoli,1,2020-21
 Salernitana,2,2020-21
-Monza,3,2020-21
+AC Monza,3,2020-21
 Lecce,4,2020-21
-Venezia,5,2020-21
+Venezia FC,5,2020-21
 Cittadella,6,2020-21
 Brescia,7,2020-21
 Chievo Verona,8,2020-21
 SPAL,9,2020-21
 Frosinone,10,2020-21
-Reggina,11,2020-21
+Urbs Reggina 1914 ,11,2020-21
 Vicenza,12,2020-21
-Cremonese,13,2020-21
+US Cremonese,13,2020-21
 Pisa,14,2020-21
 Pordenone Calcio,15,2020-21
 Ascoli,16,2020-21
@@ -69,8 +69,8 @@ Pisa,7,2019-20
 Frosinone,8,2019-20
 Empoli,9,2019-20
 Salernitana,10,2019-20
-Venezia,11,2019-20
-Cremonese,12,2019-20
+Venezia FC,11,2019-20
+US Cremonese,12,2019-20
 Virtus Entella,13,2019-20
 Cosenza,14,2019-20
 Ascoli,15,2019-20
@@ -87,13 +87,13 @@ Hellas Verona,5,2018-19
 Spezia,6,2018-19
 Cittadella,7,2018-19
 Perugia,8,2018-19
-Cremonese,9,2018-19
+US Cremonese,9,2018-19
 Cosenza,10,2018-19
 Palermo,11,2018-19
 Crotone,12,2018-19
 Ascoli,13,2018-19
 Livorno,14,2018-19
-Venezia,15,2018-19
+Venezia FC,15,2018-19
 Salernitana,16,2018-19
 Foggia,17,2018-19
 Padova,18,2018-19
@@ -102,7 +102,7 @@ Empoli,1,2017-18
 Parma,2,2017-18
 Frosinone,3,2017-18
 Palermo,4,2017-18
-Venezia,5,2017-18
+Venezia FC,5,2017-18
 Bari,6,2017-18
 Cittadella,7,2017-18
 Perugia,8,2017-18
@@ -111,7 +111,7 @@ Spezia,10,2017-18
 Carpi,11,2017-18
 Salernitana,12,2017-18
 Cesena,13,2017-18
-Cremonese,14,2017-18
+US Cremonese,14,2017-18
 US Avellino,15,2017-18
 Brescia,16,2017-18
 US Pescara,17,2017-18
@@ -206,7 +206,7 @@ Cittadella,17,2013-14
 Varese,18,2013-14
 Novara,19,2013-14
 Padova,20,2013-14
-Reggina,21,2013-14
+Urbs Reggina 1914 ,21,2013-14
 Juve Stabia,22,2013-14
 Sassuolo,1,2012-13
 Hellas Verona,2,2012-13
@@ -224,7 +224,7 @@ Spezia,13,2012-13
 Cesena,14,2012-13
 Cittadella,15,2012-13
 Juve Stabia,16,2012-13
-Reggina,17,2012-13
+Urbs Reggina 1914 ,17,2012-13
 Lanciano,18,2012-13
 Vicenza,19,2012-13
 Ascoli,20,2012-13
@@ -239,7 +239,7 @@ Sampdoria,6,2011-12
 Padova,7,2011-12
 Brescia,8,2011-12
 Juve Stabia,9,2011-12
-Reggina,10,2011-12
+Urbs Reggina 1914 ,10,2011-12
 Crotone,11,2011-12
 Modena,12,2011-12
 Bari,13,2011-12
@@ -257,7 +257,7 @@ Siena,2,2010-11
 Novara,3,2010-11
 Varese,4,2010-11
 Padova,5,2010-11
-Reggina,6,2010-11
+Urbs Reggina 1914 ,6,2010-11
 Livorno,7,2010-11
 Torino,8,2010-11
 Ascoli,9,2010-11
@@ -285,7 +285,7 @@ Crotone,8,2009-10
 Ascoli,9,2009-10
 Empoli,10,2009-10
 Albinoleffe,11,2009-10
-Reggina,12,2009-10
+Urbs Reggina 1914 ,12,2009-10
 Modena,13,2009-10
 Vicenza,14,2009-10
 Piacenza,15,2009-10

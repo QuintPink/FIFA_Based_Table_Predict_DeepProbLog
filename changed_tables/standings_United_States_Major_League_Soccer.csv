@@ -1,7 +1,7 @@
 team,pos,season
 Philadelphia Union,1,2022-22
 Los Angeles FC,2,2022-22
-CF Montreal,3,2022-22
+Montreal Impact,3,2022-22
 Austin FC,4,2022-22
 New York City FC,5,2022-22
 FC Dallas,6,2022-22
@@ -9,18 +9,18 @@ New York Red Bulls,7,2022-22
 Nashville SC,8,2022-22
 LA Galaxy,9,2022-22
 FC Cincinnati,10,2022-22
-Minnesota United,11,2022-22
+Minnesota United FC,11,2022-22
 Inter Miami CF,12,2022-22
-Orlando City,13,2022-22
+Orlando City SC,13,2022-22
 Real Salt Lake,14,2022-22
 Columbus Crew,15,2022-22
 Portland Timbers,16,2022-22
 Colorado Rapids,17,2022-22
-Vancouver Whitecaps,18,2022-22
+Vancouver Whitecaps FC,18,2022-22
 New England Revolution,19,2022-22
 Charlotte FC,20,2022-22
 Seattle Sounders FC,21,2022-22
-Atlanta United FC,22,2022-22
+Atlanta United,22,2022-22
 Sporting Kansas City,23,2022-22
 Chicago Fire,24,2022-22
 Houston Dynamo,25,2022-22
@@ -35,16 +35,16 @@ Portland Timbers,5,2021-21
 Nashville SC,6,2021-21
 Philadelphia Union,7,2021-21
 New York City FC,8,2021-21
-Atlanta United FC,9,2021-21
-Orlando City,10,2021-21
-Vancouver Whitecaps,11,2021-21
-Minnesota United,12,2021-21
+Atlanta United,9,2021-21
+Orlando City SC,10,2021-21
+Vancouver Whitecaps FC,11,2021-21
+Minnesota United FC,12,2021-21
 New York Red Bulls,13,2021-21
 Real Salt Lake,14,2021-21
 LA Galaxy,15,2021-21
 DC United,16,2021-21
 Columbus Crew,17,2021-21
-CF Montreal,18,2021-21
+Montreal Impact,18,2021-21
 Los Angeles FC,19,2021-21
 San Jose Earthquakes,20,2021-21
 Inter Miami CF,21,2021-21
@@ -55,14 +55,14 @@ Houston Dynamo,25,2021-21
 Toronto FC,26,2021-21
 FC Cincinnati,27,2021-21
 Philadelphia Union,1,2020-20
-Orlando City,2,2020-20
+Orlando City SC,2,2020-20
 Toronto FC,3,2020-20
 Seattle Sounders FC,4,2020-20
 New York City FC,5,2020-20
 Sporting Kansas City,6,2020-20
 Portland Timbers,7,2020-20
 Columbus Crew,8,2020-20
-Minnesota United,9,2020-20
+Minnesota United FC,9,2020-20
 FC Dallas,10,2020-20
 Los Angeles FC,11,2020-20
 Nashville SC,12,2020-20
@@ -70,11 +70,11 @@ New England Revolution,13,2020-20
 New York Red Bulls,14,2020-20
 San Jose Earthquakes,15,2020-20
 Colorado Rapids,16,2020-20
-Vancouver Whitecaps,17,2020-20
-CF Montreal,18,2020-20
+Vancouver Whitecaps FC,17,2020-20
+Montreal Impact,18,2020-20
 Inter Miami CF,19,2020-20
 Chicago Fire,20,2020-20
-Atlanta United FC,21,2020-20
+Atlanta United,21,2020-20
 Real Salt Lake,22,2020-20
 LA Galaxy,23,2020-20
 Houston Dynamo,24,2020-20
@@ -82,10 +82,10 @@ DC United,25,2020-20
 FC Cincinnati,26,2020-20
 Los Angeles FC,1,2019-19
 New York City FC,2,2019-19
-Atlanta United FC,3,2019-19
+Atlanta United,3,2019-19
 Seattle Sounders FC,4,2019-19
 Philadelphia Union,5,2019-19
-Minnesota United,6,2019-19
+Minnesota United FC,6,2019-19
 Real Salt Lake,7,2019-19
 LA Galaxy,8,2019-19
 Toronto FC,9,2019-19
@@ -97,15 +97,15 @@ Colorado Rapids,14,2019-19
 New England Revolution,15,2019-19
 San Jose Earthquakes,16,2019-19
 Chicago Fire,17,2019-19
-CF Montreal,18,2019-19
+Montreal Impact,18,2019-19
 Houston Dynamo,19,2019-19
 Columbus Crew,20,2019-19
 Sporting Kansas City,21,2019-19
-Orlando City,22,2019-19
-Vancouver Whitecaps,23,2019-19
+Orlando City SC,22,2019-19
+Vancouver Whitecaps FC,23,2019-19
 FC Cincinnati,24,2019-19
 New York Red Bulls,1,2018-18
-Atlanta United FC,2,2018-18
+Atlanta United,2,2018-18
 Sporting Kansas City,3,2018-18
 Seattle Sounders FC,4,2018-18
 FC Dallas,5,2018-18
@@ -117,24 +117,24 @@ Columbus Crew,10,2018-18
 Philadelphia Union,11,2018-18
 Real Salt Lake,12,2018-18
 LA Galaxy,13,2018-18
-Vancouver Whitecaps,14,2018-18
-CF Montreal,15,2018-18
+Vancouver Whitecaps FC,14,2018-18
+Montreal Impact,15,2018-18
 New England Revolution,16,2018-18
 Houston Dynamo,17,2018-18
 Toronto FC,18,2018-18
-Minnesota United,19,2018-18
+Minnesota United FC,19,2018-18
 Chicago Fire,20,2018-18
 Colorado Rapids,21,2018-18
-Orlando City,22,2018-18
+Orlando City SC,22,2018-18
 San Jose Earthquakes,23,2018-18
 Toronto FC,1,2017-17
 New York City FC,2,2017-17
-Atlanta United FC,3,2017-17
+Atlanta United,3,2017-17
 Chicago Fire,4,2017-17
 Columbus Crew,5,2017-17
 Seattle Sounders FC,6,2017-17
 Portland Timbers,7,2017-17
-Vancouver Whitecaps,8,2017-17
+Vancouver Whitecaps FC,8,2017-17
 Houston Dynamo,9,2017-17
 New York Red Bulls,10,2017-17
 Sporting Kansas City,11,2017-17
@@ -143,9 +143,9 @@ San Jose Earthquakes,13,2017-17
 Real Salt Lake,14,2017-17
 New England Revolution,15,2017-17
 Philadelphia Union,16,2017-17
-CF Montreal,17,2017-17
-Orlando City,18,2017-17
-Minnesota United,19,2017-17
+Montreal Impact,17,2017-17
+Orlando City SC,18,2017-17
+Minnesota United FC,19,2017-17
 Colorado Rapids,20,2017-17
 LA Galaxy,21,2017-17
 DC United,22,2017-17
@@ -159,30 +159,30 @@ Sporting Kansas City,7,2016-16
 DC United,8,2016-16
 Real Salt Lake,9,2016-16
 Seattle Sounders FC,10,2016-16
-CF Montreal,11,2016-16
+Montreal Impact,11,2016-16
 Portland Timbers,12,2016-16
 Philadelphia Union,13,2016-16
 New England Revolution,14,2016-16
-Orlando City,15,2016-16
-Vancouver Whitecaps,16,2016-16
+Orlando City SC,15,2016-16
+Vancouver Whitecaps FC,16,2016-16
 San Jose Earthquakes,17,2016-16
 Columbus Crew,18,2016-16
 Houston Dynamo,19,2016-16
 Chicago Fire,20,2016-16
 New York Red Bulls,1,2015-15
 FC Dallas,2,2015-15
-Vancouver Whitecaps,3,2015-15
+Vancouver Whitecaps FC,3,2015-15
 Columbus Crew,4,2015-15
 Portland Timbers,5,2015-15
 Toronto FC,6,2015-15
 LA Galaxy,7,2015-15
 Seattle Sounders FC,8,2015-15
-CF Montreal,9,2015-15
+Montreal Impact,9,2015-15
 Sporting Kansas City,10,2015-15
 DC United,11,2015-15
 New England Revolution,12,2015-15
 San Jose Earthquakes,13,2015-15
-Orlando City,14,2015-15
+Orlando City SC,14,2015-15
 Houston Dynamo,15,2015-15
 Real Salt Lake,16,2015-15
 New York City FC,17,2015-15
@@ -197,7 +197,7 @@ New England Revolution,5,2014-14
 FC Dallas,6,2014-14
 Columbus Crew,7,2014-14
 New York Red Bulls,8,2014-14
-Vancouver Whitecaps,9,2014-14
+Vancouver Whitecaps FC,9,2014-14
 Portland Timbers,10,2014-14
 Sporting Kansas City,11,2014-14
 Philadelphia Union,12,2014-14
@@ -207,7 +207,7 @@ Chicago Fire,15,2014-14
 Chivas USA,16,2014-14
 Colorado Rapids,17,2014-14
 San Jose Earthquakes,18,2014-14
-CF Montreal,19,2014-14
+Montreal Impact,19,2014-14
 New York Red Bulls,1,2013-13
 Sporting Kansas City,2,2013-13
 Portland Timbers,3,2013-13
@@ -218,9 +218,9 @@ New England Revolution,7,2013-13
 Colorado Rapids,8,2013-13
 Houston Dynamo,9,2013-13
 San Jose Earthquakes,10,2013-13
-CF Montreal,11,2013-13
+Montreal Impact,11,2013-13
 Chicago Fire,12,2013-13
-Vancouver Whitecaps,13,2013-13
+Vancouver Whitecaps FC,13,2013-13
 Philadelphia Union,14,2013-13
 FC Dallas,15,2013-13
 Columbus Crew,16,2013-13
@@ -237,8 +237,8 @@ New York Red Bulls,7,2012-12
 Real Salt Lake,8,2012-12
 Chicago Fire,9,2012-12
 Columbus Crew,10,2012-12
-Vancouver Whitecaps,11,2012-12
-CF Montreal,12,2012-12
+Vancouver Whitecaps FC,11,2012-12
+Montreal Impact,12,2012-12
 FC Dallas,13,2012-12
 Colorado Rapids,14,2012-12
 Philadelphia Union,15,2012-12
@@ -263,7 +263,7 @@ San Jose Earthquakes,14,2011-11
 Chivas USA,15,2011-11
 Toronto FC,16,2011-11
 New England Revolution,17,2011-11
-Vancouver Whitecaps,18,2011-11
+Vancouver Whitecaps FC,18,2011-11
 LA Galaxy,1,2010-10
 Real Salt Lake,2,2010-10
 FC Dallas,3,2010-10

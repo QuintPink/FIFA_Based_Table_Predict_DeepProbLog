@@ -1,6 +1,6 @@
 team,pos,season
-SSC Napoli,1,2022-23
-Inter Milan,2,2022-23
+Napoli,1,2022-23
+Inter,2,2022-23
 Roma,3,2022-23
 Lazio,4,2022-23
 Atalanta,5,2022-23
@@ -9,19 +9,19 @@ AC Milan,7,2022-23
 Torino,8,2022-23
 Udinese,9,2022-23
 Bologna,10,2022-23
-Empoli FC,11,2022-23
+Empoli,11,2022-23
 AC Monza,12,2022-23
 Fiorentina,13,2022-23
 Lecce,14,2022-23
 Sassuolo,15,2022-23
-U.S. Salernitana 1919,16,2022-23
-ASD Spezia Calcio 2008,17,2022-23
+US Salernitana 1919,16,2022-23
+Spezia,17,2022-23
 Hellas Verona,18,2022-23
 Sampdoria,19,2022-23
 US Cremonese,20,2022-23
 AC Milan,1,2021-22
-Inter Milan,2,2021-22
-SSC Napoli,3,2021-22
+Inter,2,2021-22
+Napoli,3,2021-22
 Juventus,4,2021-22
 Lazio,5,2021-22
 Roma,6,2021-22
@@ -32,18 +32,18 @@ Torino,10,2021-22
 Sassuolo,11,2021-22
 Udinese,12,2021-22
 Bologna,13,2021-22
-Empoli FC,14,2021-22
+Empoli,14,2021-22
 Sampdoria,15,2021-22
 Cagliari,16,2021-22
 Genoa,17,2021-22
-U.S. Salernitana 1919,18,2021-22
-ASD Spezia Calcio 2008,19,2021-22
+US Salernitana 1919,18,2021-22
+Spezia,19,2021-22
 Venezia FC,20,2021-22
-Inter Milan,1,2020-21
+Inter,1,2020-21
 AC Milan,2,2020-21
 Atalanta,3,2020-21
 Juventus,4,2020-21
-SSC Napoli,5,2020-21
+Napoli,5,2020-21
 Lazio,6,2020-21
 Roma,7,2020-21
 Sassuolo,8,2020-21
@@ -53,22 +53,22 @@ Genoa,11,2020-21
 Bologna,12,2020-21
 Fiorentina,13,2020-21
 Udinese,14,2020-21
-ASD Spezia Calcio 2008,15,2020-21
+Spezia,15,2020-21
 Cagliari,16,2020-21
 Torino,17,2020-21
 Benevento,18,2020-21
 Crotone,19,2020-21
-Parma Calcio 1913,20,2020-21
-Inter Milan,1,2019-20
+Parma,20,2020-21
+Inter,1,2019-20
 Juventus,2,2019-20
 Atalanta,3,2019-20
 Lazio,4,2019-20
 Roma,5,2019-20
 AC Milan,6,2019-20
-SSC Napoli,7,2019-20
+Napoli,7,2019-20
 Sassuolo,8,2019-20
 Fiorentina,9,2019-20
-Parma Calcio 1913,10,2019-20
+Parma,10,2019-20
 Hellas Verona,11,2019-20
 Cagliari,12,2019-20
 Udinese,13,2019-20
@@ -78,12 +78,12 @@ Torino,16,2019-20
 Genoa,17,2019-20
 Lecce,18,2019-20
 Brescia,19,2019-20
-SPAL 2013,20,2019-20
+SPAL,20,2019-20
 Juventus,1,2018-19
-SSC Napoli,2,2018-19
+Napoli,2,2018-19
 Atalanta,3,2018-19
 AC Milan,4,2018-19
-Inter Milan,5,2018-19
+Inter,5,2018-19
 Roma,6,2018-19
 Torino,7,2018-19
 Lazio,8,2018-19
@@ -91,19 +91,19 @@ Sampdoria,9,2018-19
 Bologna,10,2018-19
 Sassuolo,11,2018-19
 Udinese,12,2018-19
-SPAL 2013,13,2018-19
+SPAL,13,2018-19
 Fiorentina,14,2018-19
 Cagliari,15,2018-19
-Parma Calcio 1913,16,2018-19
+Parma,16,2018-19
 Genoa,17,2018-19
-Empoli FC,18,2018-19
+Empoli,18,2018-19
 Frosinone,19,2018-19
 Chievo Verona,20,2018-19
 Juventus,1,2017-18
-SSC Napoli,2,2017-18
+Napoli,2,2017-18
 Roma,3,2017-18
 Lazio,4,2017-18
-Inter Milan,5,2017-18
+Inter,5,2017-18
 AC Milan,6,2017-18
 Atalanta,7,2017-18
 Fiorentina,8,2017-18
@@ -115,13 +115,13 @@ Udinese,13,2017-18
 Chievo Verona,14,2017-18
 Bologna,15,2017-18
 Cagliari,16,2017-18
-SPAL 2013,17,2017-18
+SPAL,17,2017-18
 Crotone,18,2017-18
 Hellas Verona,19,2017-18
 Benevento,20,2017-18
 Juventus,1,2016-17
 Roma,2,2016-17
-SSC Napoli,3,2016-17
+Napoli,3,2016-17
 Atalanta,4,2016-17
 Lazio,5,2016-17
 AC Milan,6,2016-17
@@ -134,20 +134,20 @@ Chievo Verona,12,2016-17
 Bologna,13,2016-17
 Genoa,14,2016-17
 Crotone,15,2016-17
-Empoli FC,16,2016-17
+Empoli,16,2016-17
 Palermo,17,2016-17
 Pescara,18,2016-17
 Juventus,1,2015-16
-SSC Napoli,2,2015-16
+Napoli,2,2015-16
 Roma,3,2015-16
-Inter Milan,4,2015-16
+Inter,4,2015-16
 Fiorentina,5,2015-16
 Sassuolo,6,2015-16
 AC Milan,7,2015-16
 Lazio,8,2015-16
 Chievo Verona,9,2015-16
 Genoa,10,2015-16
-Empoli FC,11,2015-16
+Empoli,11,2015-16
 Torino,12,2015-16
 Atalanta,13,2015-16
 Bologna,14,2015-16
@@ -159,18 +159,18 @@ Frosinone,19,2015-16
 Hellas Verona,20,2015-16
 AC Milan,1,2014-15
 Hellas Verona,2,2014-15
-Inter Milan,3,2014-15
+Inter,3,2014-15
 Torino,4,2014-15
 Genoa,5,2014-15
 Chievo Verona,6,2014-15
-Parma Calcio 1913,7,2014-15
+Parma,7,2014-15
 Lazio,8,2014-15
-Empoli FC,9,2014-15
+Empoli,9,2014-15
 Atalanta,10,2014-15
 Sassuolo,11,2014-15
 Roma,12,2014-15
 Udinese,13,2014-15
-SSC Napoli,14,2014-15
+Napoli,14,2014-15
 Cesena,15,2014-15
 Juventus,16,2014-15
 Cagliari,17,2014-15
@@ -179,10 +179,10 @@ Sampdoria,19,2014-15
 Fiorentina,20,2014-15
 Juventus,1,2013-14
 Roma,2,2013-14
-SSC Napoli,3,2013-14
+Napoli,3,2013-14
 Fiorentina,4,2013-14
-Inter Milan,5,2013-14
-Parma Calcio 1913,6,2013-14
+Inter,5,2013-14
+Parma,6,2013-14
 Torino,7,2013-14
 AC Milan,8,2013-14
 Lazio,9,2013-14
@@ -198,15 +198,15 @@ Catania,18,2013-14
 Bologna,19,2013-14
 Livorno,20,2013-14
 Juventus,1,2012-13
-SSC Napoli,2,2012-13
+Napoli,2,2012-13
 AC Milan,3,2012-13
 Fiorentina,4,2012-13
 Udinese,5,2012-13
 Roma,6,2012-13
 Lazio,7,2012-13
 Catania,8,2012-13
-Inter Milan,9,2012-13
-Parma Calcio 1913,10,2012-13
+Inter,9,2012-13
+Parma,10,2012-13
 Cagliari,11,2012-13
 Chievo Verona,12,2012-13
 Bologna,13,2012-13
@@ -221,10 +221,10 @@ Juventus,1,2011-12
 AC Milan,2,2011-12
 Udinese,3,2011-12
 Lazio,4,2011-12
-SSC Napoli,5,2011-12
-Inter Milan,6,2011-12
+Napoli,5,2011-12
+Inter,6,2011-12
 Roma,7,2011-12
-Parma Calcio 1913,8,2011-12
+Parma,8,2011-12
 Atalanta,9,2011-12
 Bologna,10,2011-12
 Chievo Verona,11,2011-12
@@ -238,8 +238,8 @@ Lecce,18,2011-12
 Novara,19,2011-12
 Cesena,20,2011-12
 AC Milan,1,2010-11
-Inter Milan,2,2010-11
-SSC Napoli,3,2010-11
+Inter,2,2010-11
+Napoli,3,2010-11
 Udinese,4,2010-11
 Lazio,5,2010-11
 Roma,6,2010-11
@@ -248,7 +248,7 @@ Palermo,8,2010-11
 Fiorentina,9,2010-11
 Genoa,10,2010-11
 Chievo Verona,11,2010-11
-Parma Calcio 1913,12,2010-11
+Parma,12,2010-11
 Catania,13,2010-11
 Cagliari,14,2010-11
 Bologna,15,2010-11
@@ -257,14 +257,14 @@ Lecce,17,2010-11
 Sampdoria,18,2010-11
 Brescia,19,2010-11
 Bari,20,2010-11
-Inter Milan,1,2009-10
+Inter,1,2009-10
 Roma,2,2009-10
 AC Milan,3,2009-10
 Sampdoria,4,2009-10
 Palermo,5,2009-10
-SSC Napoli,6,2009-10
+Napoli,6,2009-10
 Juventus,7,2009-10
-Parma Calcio 1913,8,2009-10
+Parma,8,2009-10
 Genoa,9,2009-10
 Bari,10,2009-10
 Fiorentina,11,2009-10

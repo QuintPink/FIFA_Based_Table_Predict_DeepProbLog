@@ -12,7 +12,7 @@ Give alias for "Sarmiento"?Club Atlético Sarmiento
 Give alias for "CA Central Cordoba"?Club Atlético Central Córdoba
 Give alias for "Colón Santa Fe"?Club Atlético Colón
 Give alias for "Talleres de Cordoba"?Club Atlético Talleres
-Give alias for "Patronato de Parana"?Club Athletico Paranaense
+Give alias for "Patronato de Parana"?Patronato
 Give alias for "Aldosivi"?Club Atlético Aldosivi
 Give alias for "Western Sydney"?Western Sydney Wanderers
 Give alias for "Central Coast Mariners FC"?Central Coast Mariners
@@ -51,8 +51,7 @@ Give alias for "Lokeren"?Sporting Lokeren
 Give alias for "Lierse"?Lierse SK
 Give alias for "Mons"?
 Give alias for "SV Roeselare"?
-Give alias for "Fluminense FC"?Fluminese
-Give alias for "Fluminense FC"?Fluminense 
+Give alias for "Fluminense FC"?Fluminense
 Give alias for "Atlético PR"?Club Athletico Paranaense
 Give alias for "América Mineiro"?Atlético Mineiro
 Give alias for "Botafogo FR"?Botafogo
@@ -148,8 +147,7 @@ Give alias for "Derby County *"?Derby County
 Give alias for "Sheffield Wednesday *"?Sheffield Wednesday
 Give alias for "Wigan Athletic *"?Wigan Athletic
 Give alias for "Birmingham City *"?Birmingham City
-Give alias for "Brighton and Hove Albion"?Brigthon & Hove Albion
-Give alias for "Brighton and Hove Albion"?Brighton & Hove Albion 
+Give alias for "Brighton and Hove Albion"?Brighton & Hove Albion
 Give alias for "Rotherham United *"?Rotherham United
 Give alias for "Portsmouth *"?Portsmouth
 Give alias for "Bolton Wanderers *"?Bolton Wanderers
@@ -158,7 +156,7 @@ Give alias for "Newport County AFC"?Newport County
 Give alias for "Macclesfield Town *"?Macclesfield Town
 Give alias for "Dagenham & Redbridge"?Dagenham and Redbridge
 Give alias for "AFC Wimbledon *"?AFC Wimbledon
-Give alias for "Aldershot Town"?       
+Give alias for "Aldershot Town"?
 Give alias for "Port Vale *"?Port Vale
 Give alias for "Hereford FC"?
 Give alias for "Brentford FC"?Brentford
@@ -167,8 +165,7 @@ Give alias for "Liverpool FC"?Liverpool
 Give alias for "Everton FC"?Everton
 Give alias for "West Brom"?West Bromwich Albion
 Give alias for "Sheffield United FC"?Sheffield United
-Give alias for "Blackburn Rovers F.C."?Blackburn Rovers FC
-Give alias for "Blackburn Rovers F.C."?Blackburn Rovers   
+Give alias for "Blackburn Rovers F.C."?Blackburn Rovers
 Give alias for "Marseille"?Olympique de Marseille
 Give alias for "Lens"?Racing Club de Lens
 Give alias for "Monaco"?AS Monaco
@@ -232,8 +229,7 @@ Give alias for "FC Gueugnon"?
 Give alias for "Bayern München"?FC Bayern München
 Give alias for "Freiburg"?SC Freiburg
 Give alias for "Wolfsburg"?VfL Wolfsburg
-Give alias for "Bayer Leverkusen"?Bayer 04 Leverkusen  
-Give alias for "Bayer Leverkusen"?Bayer 04 Leverkusen  
+Give alias for "Bayer Leverkusen"?Bayer 04 Leverkusen
 Give alias for "Augsburg"?FC Augsburg
 Give alias for "Hoffenheim"?TSG 1899 Hoffenheim
 Give alias for "Bochum"?VfL Bochum
@@ -273,7 +269,7 @@ Give alias for "Pro Vercelli"?
 Give alias for "Lanciano"?
 Give alias for "Varese"?
 Give alias for "Nocerina"?
-Give alias for "Gubbio"? 
+Give alias for "Gubbio"?
 Give alias for "Albinoleffe"?
 Give alias for "Piacenza"?
 Give alias for "Portosummaga"?
@@ -456,7 +452,7 @@ Give alias for "Burgos"?Burgos CF
 Give alias for "Leganés"?CD Leganés
 Give alias for "Huesca"?SD Huesca
 Give alias for "Villarreal B"?Villarreal Club de Fútbol B
-Give alias for "Mirandés"?CD Mirandés 
+Give alias for "Mirandés"?CD Mirandés
 Give alias for "Ponferradina"?SD Ponferradina
 Give alias for "Lugo"?CD Lugo
 Give alias for "Amorebieta"?SD Amorebieta
@@ -486,7 +482,7 @@ Give alias for "Real Valladolid CF II"?
 Give alias for "Alcoyano"?
 Give alias for "U.D. Salamanca"?
 Give alias for "Real Unión Irun"?
-Give alias for "Alicante"? 
+Give alias for "Alicante"?
 Give alias for "Racing Ferrol"?
 Give alias for "Club Polideportivo Ejido"?
 Give alias for "Lorca CF"?
@@ -529,6 +525,7 @@ Give alias for "Beşiktaş"?Beşiktaş JK
 Give alias for "Konyaspor"?Atiker Konyaspor
 Give alias for "Fatih Karagümrük"?Fatih Karagümrük S.K.
 Give alias for "Gazişehir Gaziantep FK"?Gazişehir Gaziantep F.K.
+Give alias for "MP Antalyaspor"?Antalyaspor
 Give alias for "Hatayspor Kulübü"?Hatayspor
 Give alias for "Ankaragücü"?MKE Ankaragücü
 Give alias for "Kasımpaşa"?Kasimpaşa SK

@@ -1,69 +1,69 @@
 team,pos,season
 Palmeiras,1,2022-22
 Internacional,2,2022-22
-Fluminense FC,3,2022-22
+Fluminense,3,2022-22
 Corinthians,4,2022-22
 Flamengo,5,2022-22
 Atlético Mineiro,6,2022-22
-Atlético PR,7,2022-22
+Club Athletico Paranaense,7,2022-22
 Fortaleza,8,2022-22
-América Mineiro,9,2022-22
-Botafogo FR,10,2022-22
+Atlético Mineiro,9,2022-22
+Botafogo,10,2022-22
 São Paulo,11,2022-22
-Santos FC,12,2022-22
+Santos,12,2022-22
 Goiás,13,2022-22
-Red Bull Bragantino SP,14,2022-22
+RB Bragantino,14,2022-22
 Coritiba,15,2022-22
-Cuiaba,16,2022-22
-Ceará SC,17,2022-22
-Atlético Goianiense,18,2022-22
+Cuiabá,16,2022-22
+Ceará Sporting Club,17,2022-22
+Atlético Clube Goianiense,18,2022-22
 Avaí FC,19,2022-22
-EC Juventude,20,2022-22
+Juventude,20,2022-22
 Atlético Mineiro,1,2021-21
 Flamengo,2,2021-21
 Palmeiras,3,2021-21
 Fortaleza,4,2021-21
 Corinthians,5,2021-21
-Red Bull Bragantino SP,6,2021-21
-Fluminense FC,7,2021-21
-América Mineiro,8,2021-21
-Atlético Goianiense,9,2021-21
-Ceará SC,10,2021-21
+RB Bragantino,6,2021-21
+Fluminense,7,2021-21
+Atlético Mineiro,8,2021-21
+Atlético Clube Goianiense,9,2021-21
+Ceará Sporting Club,10,2021-21
 Internacional,11,2021-21
 São Paulo,12,2021-21
-Cuiaba,13,2021-21
-Santos FC,14,2021-21
-EC Juventude,15,2021-21
-Atlético PR,16,2021-21
+Cuiabá,13,2021-21
+Santos,14,2021-21
+Juventude,15,2021-21
+Club Athletico Paranaense,16,2021-21
 Bahia,17,2021-21
 Grêmio,18,2021-21
-Sport Recife,19,2021-21
-Chapecoense AF,20,2021-21
+Sport Club do Recife,19,2021-21
+Chapecoense,20,2021-21
 Flamengo,1,2020-20
 Internacional,2,2020-20
 Atlético Mineiro,3,2020-20
 São Paulo,4,2020-20
-Fluminense FC,5,2020-20
+Fluminense,5,2020-20
 Grêmio,6,2020-20
 Palmeiras,7,2020-20
-Santos FC,8,2020-20
-Red Bull Bragantino SP,9,2020-20
-Atlético PR,10,2020-20
-Ceará SC,11,2020-20
+Santos,8,2020-20
+RB Bragantino,9,2020-20
+Club Athletico Paranaense,10,2020-20
+Ceará Sporting Club,11,2020-20
 Corinthians,12,2020-20
-Atlético Goianiense,13,2020-20
+Atlético Clube Goianiense,13,2020-20
 Bahia,14,2020-20
-Sport Recife,15,2020-20
+Sport Club do Recife,15,2020-20
 Fortaleza,16,2020-20
 Vasco da Gama,17,2020-20
 Goiás,18,2020-20
 Coritiba,19,2020-20
-Botafogo FR,20,2020-20
+Botafogo,20,2020-20
 Flamengo,1,2019-19
-Santos FC,2,2019-19
+Santos,2,2019-19
 Palmeiras,3,2019-19
 Grêmio,4,2019-19
-Atlético PR,5,2019-19
+Club Athletico Paranaense,5,2019-19
 São Paulo,6,2019-19
 Corinthians,7,2019-19
 Internacional,8,2019-19
@@ -72,12 +72,12 @@ Bahia,10,2019-19
 Atlético Mineiro,11,2019-19
 Goiás,12,2019-19
 Vasco da Gama,13,2019-19
-Fluminense FC,14,2019-19
-Botafogo FR,15,2019-19
-Ceará SC,16,2019-19
+Fluminense,14,2019-19
+Botafogo,15,2019-19
+Ceará Sporting Club,16,2019-19
 Cruzeiro,17,2019-19
-CS Alagoano AL,18,2019-19
-Chapecoense AF,19,2019-19
+CSA - AL,18,2019-19
+Chapecoense,19,2019-19
 Avaí FC,20,2019-19
 Palmeiras,1,2018-18
 Flamengo,2,2018-18
@@ -85,74 +85,74 @@ Internacional,3,2018-18
 Grêmio,4,2018-18
 São Paulo,5,2018-18
 Atlético Mineiro,6,2018-18
-Atlético PR,7,2018-18
-Botafogo FR,8,2018-18
-Santos FC,9,2018-18
+Club Athletico Paranaense,7,2018-18
+Botafogo,8,2018-18
+Santos,9,2018-18
 Cruzeiro,10,2018-18
 Bahia,11,2018-18
-Fluminense FC,12,2018-18
+Fluminense,12,2018-18
 Corinthians,13,2018-18
-Ceará SC,14,2018-18
-Chapecoense AF,15,2018-18
+Ceará Sporting Club,14,2018-18
+Chapecoense,15,2018-18
 Vasco da Gama,16,2018-18
-Sport Recife,17,2018-18
-América Mineiro,18,2018-18
+Sport Club do Recife,17,2018-18
+Atlético Mineiro,18,2018-18
 Vitória,19,2018-18
-Paraná Clube,20,2018-18
+Paraná,20,2018-18
 Corinthians,1,2017-17
 Palmeiras,2,2017-17
-Santos FC,3,2017-17
+Santos,3,2017-17
 Grêmio,4,2017-17
 Cruzeiro,5,2017-17
 Flamengo,6,2017-17
 Vasco da Gama,7,2017-17
 Atlético Mineiro,8,2017-17
-Chapecoense AF,9,2017-17
-Botafogo FR,10,2017-17
-Atlético PR,11,2017-17
+Chapecoense,9,2017-17
+Botafogo,10,2017-17
+Club Athletico Paranaense,11,2017-17
 Bahia,12,2017-17
 São Paulo,13,2017-17
-Fluminense FC,14,2017-17
-Sport Recife,15,2017-17
+Fluminense,14,2017-17
+Sport Club do Recife,15,2017-17
 Vitória,16,2017-17
 Coritiba,17,2017-17
 Avaí FC,18,2017-17
 Ponte Preta,19,2017-17
-Atlético Goianiense,20,2017-17
+Atlético Clube Goianiense,20,2017-17
 Palmeiras,1,2016-16
-Santos FC,2,2016-16
+Santos,2,2016-16
 Flamengo,3,2016-16
 Atlético Mineiro,4,2016-16
-Botafogo FR,5,2016-16
-Atlético PR,6,2016-16
+Botafogo,5,2016-16
+Club Athletico Paranaense,6,2016-16
 Corinthians,7,2016-16
 Grêmio,8,2016-16
-Chapecoense AF,9,2016-16
+Chapecoense,9,2016-16
 Ponte Preta,10,2016-16
 São Paulo,11,2016-16
 Cruzeiro,12,2016-16
-Fluminense FC,13,2016-16
-Sport Recife,14,2016-16
+Fluminense,13,2016-16
+Sport Club do Recife,14,2016-16
 Coritiba,15,2016-16
 Vitória,16,2016-16
 Internacional,17,2016-16
 Figueirense,18,2016-16
 Santa Cruz,19,2016-16
-América Mineiro,20,2016-16
+Atlético Mineiro,20,2016-16
 Corinthians,1,2015-15
 Atlético Mineiro,2,2015-15
 Grêmio,3,2015-15
 São Paulo,4,2015-15
 Internacional,5,2015-15
-Sport Recife,6,2015-15
-Santos FC,7,2015-15
+Sport Club do Recife,6,2015-15
+Santos,7,2015-15
 Cruzeiro,8,2015-15
 Palmeiras,9,2015-15
 Ponte Preta,10,2015-15
-Atlético PR,11,2015-15
+Club Athletico Paranaense,11,2015-15
 Flamengo,12,2015-15
-Fluminense FC,13,2015-15
-Chapecoense AF,14,2015-15
+Fluminense,13,2015-15
+Chapecoense,14,2015-15
 Coritiba,15,2015-15
 Figueirense,16,2015-15
 Avaí FC,17,2015-15
@@ -164,28 +164,28 @@ São Paulo,2,2014-14
 Corinthians,3,2014-14
 Internacional,4,2014-14
 Atlético Mineiro,5,2014-14
-Fluminense FC,6,2014-14
+Fluminense,6,2014-14
 Grêmio,7,2014-14
-Atlético PR,8,2014-14
-Santos FC,9,2014-14
+Club Athletico Paranaense,8,2014-14
+Santos,9,2014-14
 Flamengo,10,2014-14
-Sport Recife,11,2014-14
+Sport Club do Recife,11,2014-14
 Goiás,12,2014-14
 Coritiba,13,2014-14
 Figueirense,14,2014-14
-Chapecoense AF,15,2014-14
+Chapecoense,15,2014-14
 Palmeiras,16,2014-14
 Vitória,17,2014-14
 Bahia,18,2014-14
-Botafogo FR,19,2014-14
+Botafogo,19,2014-14
 Criciúma,20,2014-14
 Cruzeiro,1,2013-13
 Grêmio,2,2013-13
-Atlético PR,3,2013-13
-Botafogo FR,4,2013-13
+Club Athletico Paranaense,3,2013-13
+Botafogo,4,2013-13
 Vitória,5,2013-13
 Goiás,6,2013-13
-Santos FC,7,2013-13
+Santos,7,2013-13
 Atlético Mineiro,8,2013-13
 Corinthians,9,2013-13
 São Paulo,10,2013-13
@@ -194,19 +194,19 @@ Portuguesa,12,2013-13
 Internacional,13,2013-13
 Coritiba,14,2013-13
 Bahia,15,2013-13
-Fluminense FC,16,2013-13
+Fluminense,16,2013-13
 Criciúma,17,2013-13
 Vasco da Gama,18,2013-13
 Ponte Preta,19,2013-13
 Náutico,20,2013-13
-Fluminense FC,1,2012-12
+Fluminense,1,2012-12
 Atlético Mineiro,2,2012-12
 Grêmio,3,2012-12
 São Paulo,4,2012-12
 Vasco da Gama,5,2012-12
 Corinthians,6,2012-12
-Botafogo FR,7,2012-12
-Santos FC,8,2012-12
+Botafogo,7,2012-12
+Santos,8,2012-12
 Internacional,9,2012-12
 Cruzeiro,10,2012-12
 Flamengo,11,2012-12
@@ -215,47 +215,47 @@ Coritiba,13,2012-12
 Ponte Preta,14,2012-12
 Bahia,15,2012-12
 Portuguesa,16,2012-12
-Sport Recife,17,2012-12
+Sport Club do Recife,17,2012-12
 Palmeiras,18,2012-12
-Atlético Goianiense,19,2012-12
+Atlético Clube Goianiense,19,2012-12
 Figueirense,20,2012-12
 Corinthians,1,2011-11
 Vasco da Gama,2,2011-11
-Fluminense FC,3,2011-11
+Fluminense,3,2011-11
 Flamengo,4,2011-11
 Internacional,5,2011-11
 São Paulo,6,2011-11
 Figueirense,7,2011-11
 Coritiba,8,2011-11
-Botafogo FR,9,2011-11
-Santos FC,10,2011-11
+Botafogo,9,2011-11
+Santos,10,2011-11
 Palmeiras,11,2011-11
-Atlético Goianiense,12,2011-11
+Atlético Clube Goianiense,12,2011-11
 Grêmio,13,2011-11
 Bahia,14,2011-11
 Atlético Mineiro,15,2011-11
 Cruzeiro,16,2011-11
-Atlético PR,17,2011-11
-Ceará SC,18,2011-11
-América Mineiro,19,2011-11
+Club Athletico Paranaense,17,2011-11
+Ceará Sporting Club,18,2011-11
+Atlético Mineiro,19,2011-11
 Avaí FC,20,2011-11
-Fluminense FC,1,2010-10
+Fluminense,1,2010-10
 Cruzeiro,2,2010-10
 Corinthians,3,2010-10
 Grêmio,4,2010-10
-Atlético PR,5,2010-10
-Botafogo FR,6,2010-10
+Club Athletico Paranaense,5,2010-10
+Botafogo,6,2010-10
 Internacional,7,2010-10
-Santos FC,8,2010-10
+Santos,8,2010-10
 São Paulo,9,2010-10
 Palmeiras,10,2010-10
 Vasco da Gama,11,2010-10
-Ceará SC,12,2010-10
+Ceará Sporting Club,12,2010-10
 Atlético Mineiro,13,2010-10
 Flamengo,14,2010-10
 Avaí FC,15,2010-10
 Vitória,16,2010-10
-Atlético Goianiense,17,2010-10
+Atlético Clube Goianiense,17,2010-10
 Guarani FC,18,2010-10
 Goiás,19,2010-10
 Grêmio Prudente,20,2010-10
@@ -270,12 +270,12 @@ Grêmio,8,2009-09
 Goiás,9,2009-09
 Corinthians,10,2009-09
 Grêmio Prudente,11,2009-09
-Santos FC,12,2009-09
+Santos,12,2009-09
 Vitória,13,2009-09
-Atlético PR,14,2009-09
-Botafogo FR,15,2009-09
-Fluminense FC,16,2009-09
+Club Athletico Paranaense,14,2009-09
+Botafogo,15,2009-09
+Fluminense,16,2009-09
 Coritiba,17,2009-09
 Santo André,18,2009-09
 Náutico,19,2009-09
-Sport Recife,20,2009-09
+Sport Club do Recife,20,2009-09
