@@ -1,0 +1,281 @@
+team,pos,season
+FC Barcelona,1,2022-23
+Real Madrid,2,2022-23
+Real Sociedad,3,2022-23
+Atlético Madrid,4,2022-23
+Villarreal CF,5,2022-23
+Real Betis,6,2022-23
+Athletic Club de Bilbao,7,2022-23
+Rayo Vallecano de Madrid,8,2022-23
+CA Osasuna,9,2022-23
+RCD Mallorca,10,2022-23
+Girona CF,11,2022-23
+RC Celta de Vigo,12,2022-23
+Real Valladolid,13,2022-23
+UD Almería,14,2022-23
+RCD Espanyol,15,2022-23
+Sevilla FC,16,2022-23
+Valencia CF,17,2022-23
+Cádiz CF,18,2022-23
+Getafe CF,19,2022-23
+Elche CF,20,2022-23
+Real Madrid,1,2021-22
+FC Barcelona,2,2021-22
+Atlético Madrid,3,2021-22
+Sevilla FC,4,2021-22
+Real Betis,5,2021-22
+Real Sociedad,6,2021-22
+Villarreal CF,7,2021-22
+Athletic Club de Bilbao,8,2021-22
+CA Osasuna,9,2021-22
+RC Celta de Vigo,10,2021-22
+Valencia CF,11,2021-22
+Rayo Vallecano de Madrid,12,2021-22
+Elche CF,13,2021-22
+RCD Espanyol,14,2021-22
+Getafe CF,15,2021-22
+RCD Mallorca,16,2021-22
+Granada CF,17,2021-22
+Levante UD,18,2021-22
+Deportivo Alavés,19,2021-22
+Cádiz CF,20,2021-22
+Atlético Madrid,1,2020-21
+Real Madrid,2,2020-21
+FC Barcelona,3,2020-21
+Sevilla FC,4,2020-21
+Real Sociedad,5,2020-21
+Villarreal CF,6,2020-21
+Real Betis,7,2020-21
+RC Celta de Vigo,8,2020-21
+Athletic Club de Bilbao,9,2020-21
+Granada CF,10,2020-21
+CA Osasuna,11,2020-21
+Cádiz CF,12,2020-21
+Valencia CF,13,2020-21
+Levante UD,14,2020-21
+Getafe CF,15,2020-21
+Deportivo Alavés,16,2020-21
+Elche CF,17,2020-21
+SD Huesca,18,2020-21
+Real Valladolid,19,2020-21
+SD Eibar,20,2020-21
+Real Madrid,1,2019-20
+FC Barcelona,2,2019-20
+Atlético Madrid,3,2019-20
+Sevilla FC,4,2019-20
+Villarreal CF,5,2019-20
+Real Sociedad,6,2019-20
+Granada CF,7,2019-20
+Getafe CF,8,2019-20
+Valencia CF,9,2019-20
+CA Osasuna,10,2019-20
+Athletic Club de Bilbao,11,2019-20
+Levante UD,12,2019-20
+Real Valladolid,13,2019-20
+Deportivo Alavés,14,2019-20
+Real Betis,15,2019-20
+SD Eibar,16,2019-20
+CD Leganés,17,2019-20
+RC Celta de Vigo,18,2019-20
+RCD Mallorca,19,2019-20
+RCD Espanyol,20,2019-20
+FC Barcelona,1,2018-19
+Atlético Madrid,2,2018-19
+Real Madrid,3,2018-19
+Valencia CF,4,2018-19
+Getafe CF,5,2018-19
+RCD Espanyol,6,2018-19
+Athletic Club de Bilbao,7,2018-19
+Real Sociedad,8,2018-19
+Real Betis,9,2018-19
+Deportivo Alavés,10,2018-19
+SD Eibar,11,2018-19
+CD Leganés,12,2018-19
+Villarreal CF,13,2018-19
+Levante UD,14,2018-19
+Real Valladolid,15,2018-19
+RC Celta de Vigo,16,2018-19
+Girona CF,17,2018-19
+SD Huesca,18,2018-19
+Rayo Vallecano de Madrid,19,2018-19
+Sevilla FC,20,2018-19
+FC Barcelona,1,2017-18
+Atlético Madrid,2,2017-18
+Real Madrid,3,2017-18
+Valencia CF,4,2017-18
+Villarreal CF,5,2017-18
+Real Betis,6,2017-18
+Sevilla FC,7,2017-18
+Getafe CF,8,2017-18
+SD Eibar,9,2017-18
+Girona CF,10,2017-18
+Real Sociedad,11,2017-18
+RC Celta de Vigo,12,2017-18
+RCD Espanyol,13,2017-18
+Deportivo Alavés,14,2017-18
+Levante UD,15,2017-18
+Athletic Club de Bilbao,16,2017-18
+CD Leganés,17,2017-18
+RC Deportivo La Coruna,18,2017-18
+UD Las Palmas,19,2017-18
+Málaga CF,20,2017-18
+Real Madrid,1,2016-17
+FC Barcelona,2,2016-17
+Atlético Madrid,3,2016-17
+Sevilla FC,4,2016-17
+Villarreal CF,5,2016-17
+Real Sociedad,6,2016-17
+Athletic Club de Bilbao,7,2016-17
+RCD Espanyol,8,2016-17
+SD Eibar,9,2016-17
+Deportivo Alavés,10,2016-17
+Valencia CF,11,2016-17
+Málaga CF,12,2016-17
+RC Celta de Vigo,13,2016-17
+Real Betis,14,2016-17
+UD Las Palmas,15,2016-17
+CD Leganés,16,2016-17
+RC Deportivo La Coruna,17,2016-17
+Real Sporting de Gijón,18,2016-17
+CA Osasuna,19,2016-17
+Granada CF,20,2016-17
+FC Barcelona,1,2015-16
+Real Madrid,2,2015-16
+Atlético Madrid,3,2015-16
+Villarreal CF,4,2015-16
+Athletic Club de Bilbao,5,2015-16
+RC Celta de Vigo,6,2015-16
+Sevilla FC,7,2015-16
+Málaga CF,8,2015-16
+Real Sociedad,9,2015-16
+Real Betis,10,2015-16
+Valencia CF,11,2015-16
+UD Las Palmas,12,2015-16
+SD Eibar,13,2015-16
+RCD Espanyol,14,2015-16
+RC Deportivo La Coruna,15,2015-16
+Real Sporting de Gijón,16,2015-16
+Granada CF,17,2015-16
+Rayo Vallecano de Madrid,18,2015-16
+Getafe CF,19,2015-16
+Levante UD,20,2015-16
+FC Barcelona,1,2014-15
+Atlético Madrid,2,2014-15
+Rayo Vallecano de Madrid,3,2014-15
+RC Deportivo La Coruna,4,2014-15
+Athletic Club de Bilbao,5,2014-15
+Real Sociedad,6,2014-15
+Getafe CF,7,2014-15
+Córdoba CF,8,2014-15
+Levante UD,9,2014-15
+Valencia CF,10,2014-15
+Sevilla FC,11,2014-15
+RC Celta de Vigo,12,2014-15
+Real Madrid,13,2014-15
+Villarreal CF,14,2014-15
+Granada CF,15,2014-15
+SD Eibar,16,2014-15
+Málaga CF,17,2014-15
+UD Almería,18,2014-15
+RCD Espanyol,19,2014-15
+Elche CF,20,2014-15
+Atlético Madrid,1,2013-14
+FC Barcelona,2,2013-14
+Real Madrid,3,2013-14
+Athletic Club de Bilbao,4,2013-14
+Sevilla FC,5,2013-14
+Villarreal CF,6,2013-14
+Real Sociedad,7,2013-14
+Valencia CF,8,2013-14
+RC Celta de Vigo,9,2013-14
+Levante UD,10,2013-14
+Málaga CF,11,2013-14
+Rayo Vallecano de Madrid,12,2013-14
+RCD Espanyol,13,2013-14
+Getafe CF,14,2013-14
+Granada CF,15,2013-14
+Elche CF,16,2013-14
+UD Almería,17,2013-14
+CA Osasuna,18,2013-14
+Real Valladolid,19,2013-14
+Real Betis,20,2013-14
+FC Barcelona,1,2012-13
+Real Madrid,2,2012-13
+Atlético Madrid,3,2012-13
+Real Sociedad,4,2012-13
+Valencia CF,5,2012-13
+Málaga CF,6,2012-13
+Real Betis,7,2012-13
+Rayo Vallecano de Madrid,8,2012-13
+Sevilla FC,9,2012-13
+Getafe CF,10,2012-13
+Levante UD,11,2012-13
+Athletic Club de Bilbao,12,2012-13
+RCD Espanyol,13,2012-13
+Real Valladolid,14,2012-13
+Granada CF,15,2012-13
+CA Osasuna,16,2012-13
+RC Celta de Vigo,17,2012-13
+RCD Mallorca,18,2012-13
+RC Deportivo La Coruna,19,2012-13
+Real Zaragoza,20,2012-13
+Real Madrid,1,2011-12
+FC Barcelona,2,2011-12
+Valencia CF,3,2011-12
+Málaga CF,4,2011-12
+Atlético Madrid,5,2011-12
+Levante UD,6,2011-12
+CA Osasuna,7,2011-12
+RCD Mallorca,8,2011-12
+Sevilla FC,9,2011-12
+Athletic Club de Bilbao,10,2011-12
+Real Sociedad,11,2011-12
+Real Betis,12,2011-12
+Getafe CF,13,2011-12
+RCD Espanyol,14,2011-12
+Rayo Vallecano de Madrid,15,2011-12
+Real Zaragoza,16,2011-12
+Granada CF,17,2011-12
+Villarreal CF,18,2011-12
+Real Sporting de Gijón,19,2011-12
+Racing de Santander,20,2011-12
+FC Barcelona,1,2010-11
+Real Madrid,2,2010-11
+Valencia CF,3,2010-11
+Villarreal CF,4,2010-11
+Atlético Madrid,5,2010-11
+Athletic Club de Bilbao,6,2010-11
+Sevilla FC,7,2010-11
+RCD Espanyol,8,2010-11
+CA Osasuna,9,2010-11
+Real Sporting de Gijón,10,2010-11
+Málaga CF,11,2010-11
+Racing de Santander,12,2010-11
+Levante UD,13,2010-11
+Real Zaragoza,14,2010-11
+Real Sociedad,15,2010-11
+Getafe CF,16,2010-11
+RCD Mallorca,17,2010-11
+RC Deportivo La Coruna,18,2010-11
+Hércules Club de Fútbol,19,2010-11
+UD Almería,20,2010-11
+FC Barcelona,1,2009-10
+Real Madrid,2,2009-10
+Valencia CF,3,2009-10
+Sevilla FC,4,2009-10
+RCD Mallorca,5,2009-10
+Getafe CF,6,2009-10
+Villarreal CF,7,2009-10
+Athletic Club de Bilbao,8,2009-10
+Atlético Madrid,9,2009-10
+RC Deportivo La Coruna,10,2009-10
+RCD Espanyol,11,2009-10
+CA Osasuna,12,2009-10
+UD Almería,13,2009-10
+Real Zaragoza,14,2009-10
+Real Sporting de Gijón,15,2009-10
+Racing de Santander,16,2009-10
+Málaga CF,17,2009-10
+Real Valladolid,18,2009-10
+CD Tenerife,19,2009-10
+Xerez Club Deportivo,20,2009-10

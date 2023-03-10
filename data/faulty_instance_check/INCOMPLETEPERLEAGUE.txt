@@ -1,0 +1,5 @@
+{'standings_Argentina_Primera.csv': ('21', '22'), 
+'standings_South_Korea_K-League_Classic.csv': ('20', '09', '14', '18', '17', '16', '21', '15', '19', '22', '11'), 
+'standings_Spain_LaLiga_2.csv': ('10', '07', '08'), 
+'standings_Turkey_Super_Lig.csv': ('13', '10', '14', '12', '11'), 
+'standings_United_States_Major_League_Soccer.csv': ('20', '09', '18', '17', '10', '21', '12', '19', '22', '11')}
