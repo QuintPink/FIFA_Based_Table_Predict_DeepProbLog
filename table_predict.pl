@@ -42,4 +42,4 @@ play_others((P,T), [(P2,T2)|Ts], [(NewP2,T2)|Rest]) :-
     ),
     play_others((NewP,T),Ts,Rest).
 
-nn(game_result,[X],Y,[win,draw,loss]) :: play(team(N1,P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11),team(N2,B1,B2,B3,B4,B5,B6,B7,B8,B9,B10,B11),Y).
+nn(game_result,[P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11,B1,B2,B3,B4,B5,B6,B7,B8,B9,B10,B11],Y,[win,draw,loss]) :: play(team(N1,P1,P2,P3,P4,P5,P6,P7,P8,P9,P10,P11),team(N2,B1,B2,B3,B4,B5,B6,B7,B8,B9,B10,B11),Y).
