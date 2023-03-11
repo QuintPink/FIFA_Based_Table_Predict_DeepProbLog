@@ -1,4 +1,8 @@
 from domain.team import Team
+from deepproblog.query import Query
+from problog.logic import Term, Constant, list2term
+import random
+import copy
 class League:
     def __init__(self,name,year) -> None:
         self.teamRanking : list[Team] = []
@@ -6,6 +10,9 @@ class League:
         self.year = year
         self.OK = True
 
+    """
+    Assumption that you add the teams from highest ranking team to lowest ranking team
+    """
     def addTeam(self,team):
         self.teamRanking.append(team)
     
@@ -29,3 +36,11 @@ class League:
     
     def __repr__(self) -> str:
         return self.__str__()
+
+    def to_query(self) -> Query:
+        ranked_teamTerms = []
+        for team in self.teamRanking:
+            ranked_teamTerms.append(team.toTerm())
+        teamTerms = copy.deepcopy(ranked_teamTerms)
+        random.shuffle(teamTerms)
+        return Query(Term("predict_table",list2term(teamTerms),list2term(ranked_teamTerms)))

@@ -1,5 +1,5 @@
 from domain.player import Player
-
+from problog.logic import Term, Constant
 
 class Team: 
 
@@ -22,5 +22,12 @@ class Team:
     def __repr__(self) -> str:
         return self.__str__()
 
+    def toTerm(self) -> Term:
+        playerOVRs = []
+        for i in range(11):
+            playerOVRs.append(Constant(self.players[i].OVR))
+        term = Term("team",Constant('"'+self.name+'"'),*playerOVRs)
+        return term
+
 if __name__ == "__main__":
-    pass
+    Team()
