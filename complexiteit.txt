@@ -1,0 +1,28 @@
+n teams 
+
+elk team speelt 2*(n-1)
+
+dus n*2*(n-1) = n^2 games 
+
+elke game heeft 3 opties (W,L,D):
+
+3^(n^2) groundings
+
+
+--------------
+
+Geoptimaliseerd:
+
+n teams 
+
+elk team speelt 2*(n-1)
+
+dus n*2*(n-1) = n^2 games 
+
+elk game heeft 2 opties 
+
+2^(n^2) groundings
+
+
+Also made sort + reverse into 1 sort (all bits help)
+

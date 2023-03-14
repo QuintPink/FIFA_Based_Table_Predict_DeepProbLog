@@ -105,8 +105,9 @@ for i in range(nr_examples):
 # print(len(league_examples))
     
 datasets : dict[str,list[League]] = {
-    "test" : test_set[:1],
-    "training" : training_set[:20]
+    "test" : test_set,
+    "training" : training_set,
+    "all" : league_examples
 }
 
 
@@ -120,7 +121,29 @@ class FIFADataset(Dataset):
         return len(self.dataset)
 
     def to_query(self,i : int) -> Query:
-        self.dataset[i].teamRanking = self.dataset[i].teamRanking[:3]
+        self.dataset[i].teamRanking = self.dataset[i].teamRanking[:4]
         return self.dataset[i].to_query()
 
+    def to_nr1_query(self,i:int) -> Query:
+        self.dataset[i].teamRanking = self.dataset[i].teamRanking[:4]
+        return self.dataset[i].to_nr1_query()
+
+    def get(self, i : int) -> League:
+        return self.dataset[i]
     
+
+class FIFANr1Dataset(Dataset):
+
+    def __init__(self, subset) -> None:
+        self.subset = subset
+        self.dataset = datasets[subset]
+
+    def __len__(self):
+        return len(self.dataset)
+
+    def to_query(self,i:int) -> Query:
+        self.dataset[i].teamRanking = self.dataset[i].teamRanking[:4]
+        return self.dataset[i].to_nr1_query()
+
+    def get(self, i : int) -> League:
+        return self.dataset[i]

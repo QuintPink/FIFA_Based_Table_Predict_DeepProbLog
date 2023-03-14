@@ -44,3 +44,11 @@ class League:
         teamTerms = copy.deepcopy(ranked_teamTerms)
         random.shuffle(teamTerms)
         return Query(Term("predict_table",list2term(teamTerms),list2term(ranked_teamTerms)))
+
+    def to_nr1_query(self) -> Query:
+        ranked_teamTerms = []
+        for team in self.teamRanking:
+            ranked_teamTerms.append(team.toTerm())
+        teamTerms = copy.deepcopy(ranked_teamTerms)
+        random.shuffle(teamTerms)
+        return Query(Term("predict_table",list2term(teamTerms),ranked_teamTerms[0]))
