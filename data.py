@@ -5,7 +5,8 @@ from domain.player import Player
 from domain.team import Team
 from domain.league import League
 from deepproblog.query import Query
-from problog.logic import Term, Constant, Var
+import random
+import copy
 
 script_dir = os.path.dirname(__file__)
 FIFA_path_rel = "data/fifa_data"
@@ -91,14 +92,12 @@ for league_filename in os.listdir(table_path_abs):
 
 # Split in training and testing set 
 nr_examples = len(league_examples)
-test_set = []
-training_set = [] 
-for i in range(nr_examples):
-    league = league_examples[i]
-    if i % 3 == 0:
-        test_set.append(league)
-    else:
-        training_set.append(league)
+third = nr_examples // 3
+random.shuffle(league_examples)
+test_set = league_examples[:third]
+training_set = league_examples[third:] 
+
+
 
 # print(len(test_set))
 # print(len(training_set))
@@ -169,3 +168,35 @@ class MatchDataset():
 
                 # add neural predicate example
                 self.dataset.append((home_team.getTeamOVRs()[:11] + away_team.getTeamOVRs()[:11],result))
+
+    def shuffle(self):
+        random.shuffle(self.dataset)
+    
+    def balance(self):
+        count_w = 0
+        count_l = 0
+        for _ , result in self.dataset:
+            if result == "win":
+                count_w +=1
+            if result == "loss":
+                count_l +=1
+        if count_w > count_l:
+            target = (count_w - count_l) // 2
+            for i in range(len(self.dataset)):
+                example = self.dataset[i]
+                OVRs , result = example
+                if result == "win":
+                    self.dataset[i] = (OVRs[11:] + OVRs[:11],"loss")
+                    target -= 1
+                if target == 0:
+                    break
+        
+        elif count_w < count_l:
+            target = (count_l - count_w) // 2
+            for i in range(len(self.dataset)):
+                example = self.dataset[i]
+                OVRs , result = example
+                if result == "loss":
+                    self.dataset[i] = (OVRs[11:] + OVRs[:11],"win")
+        self.shuffle()
+
