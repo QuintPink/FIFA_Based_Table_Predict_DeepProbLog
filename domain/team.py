@@ -47,7 +47,10 @@ class Team:
             accumulator += float(player.OVR)
         
         return accumulator / 11
-
+    
+    def getTeamOVRs(self) -> list[int]:
+        return list(map(lambda player: player.OVR,self.players))
+        
 
 if __name__ == "__main__":
     Team()

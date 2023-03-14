@@ -5,7 +5,7 @@ from domain.player import Player
 from domain.team import Team
 from domain.league import League
 from deepproblog.query import Query
-from problog.logic import Term, Constant
+from problog.logic import Term, Constant, Var
 
 script_dir = os.path.dirname(__file__)
 FIFA_path_rel = "data/fifa_data"
@@ -132,18 +132,40 @@ class FIFADataset(Dataset):
         return self.dataset[i]
     
 
-class FIFANr1Dataset(Dataset):
+class MatchDataset():
+    def __init__(self) -> None:
+        super().__init__()
+        self.dataset = []
+        filename = os.path.join(script_dir,"data/matches_ch.csv")
+        start = True
+        with open(filename,encoding='utf-8') as f:
+            csv_reader = csv.reader(f,delimiter=",")
+            for row in csv_reader:
+                if start:
+                    start = False
+                    continue
+                season = row[0]   
+                season_end = season[-2:]
 
-    def __init__(self, subset) -> None:
-        self.subset = subset
-        self.dataset = datasets[subset]
+                home_goals = row[1]
+                away_goals = row[2]
+                home_name = row[3]
+                away_name = row[4]
 
-    def __len__(self):
-        return len(self.dataset)
+                #  We don't care about draws
+                if home_goals == away_goals:
+                    continue
+                if home_goals > away_goals:
+                    result = "win"
+                elif home_goals < away_goals:
+                    result = "loss"
 
-    def to_query(self,i:int) -> Query:
-        self.dataset[i].teamRanking = self.dataset[i].teamRanking[:4]
-        return self.dataset[i].to_nr1_query()
+                # Some teams don't have fifa data
+                try:
+                    home_team = get_team(home_name,season_end)
+                    away_team = get_team(away_name,season_end)
+                except: 
+                    continue
 
-    def get(self, i : int) -> League:
-        return self.dataset[i]
+                # add neural predicate example
+                self.dataset.append((home_team.getTeamOVRs()[:11] + away_team.getTeamOVRs()[:11],result))
