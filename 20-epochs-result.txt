@@ -466,4 +466,9 @@ Accuracy Test Set 0.052083333333333336
 Accuracy:  0.09424083769633508
 Accuracy Train Set 0.09424083769633508
 
--- 1O epochs v3
+-- 1O epochs v3 
+
+Accuracy:  0.09375
+Accuracy Test Set 0.09375
+Accuracy:  0.11518324607329843
+Accuracy Train Set 0.11518324607329843
