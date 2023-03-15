@@ -1,4 +1,9 @@
 import statistics
+"""
+Accuracy Test functions
+"""
+
+
 def test_accuracy(dataset,network):
     correct_baseline_count = 0 
     correct_count = 0 

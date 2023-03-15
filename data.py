@@ -172,31 +172,66 @@ class MatchDataset():
     def shuffle(self):
         random.shuffle(self.dataset)
     
+    # def balance(self):
+    #     count_w = 0
+    #     count_l = 0
+    #     for _ , result in self.dataset:
+    #         if result == "win":
+    #             count_w +=1
+    #         if result == "loss":
+    #             count_l +=1
+    #     if count_w > count_l:
+    #         target = (count_w - count_l) // 2
+    #         for i in range(len(self.dataset)):
+    #             example = self.dataset[i]
+    #             OVRs , result = example
+    #             if result == "win":
+    #                 self.dataset[i] = (OVRs[11:] + OVRs[:11],"loss")
+    #                 target -= 1
+    #             if target == 0:
+    #                 break
+        
+    #     elif count_w < count_l:
+    #         target = (count_l - count_w) // 2
+    #         for i in range(len(self.dataset)):
+    #             example = self.dataset[i]
+    #             OVRs , result = example
+    #             if result == "loss":
+    #                 self.dataset[i] = (OVRs[11:] + OVRs[:11],"win")
+    #                 target -= 1
+    #             if target == 0:
+    #                 break
+    #     self.shuffle()
+
     def balance(self):
         count_w = 0
         count_l = 0
+        new_ds = copy.deepcopy(self.dataset)
         for _ , result in self.dataset:
             if result == "win":
                 count_w +=1
             if result == "loss":
                 count_l +=1
         if count_w > count_l:
-            target = (count_w - count_l) // 2
+            target = (count_w - count_l) 
             for i in range(len(self.dataset)):
                 example = self.dataset[i]
                 OVRs , result = example
                 if result == "win":
-                    self.dataset[i] = (OVRs[11:] + OVRs[:11],"loss")
+                    new_ds.remove(example)
                     target -= 1
                 if target == 0:
                     break
         
         elif count_w < count_l:
-            target = (count_l - count_w) // 2
+            target = (count_l - count_w) 
             for i in range(len(self.dataset)):
                 example = self.dataset[i]
                 OVRs , result = example
                 if result == "loss":
-                    self.dataset[i] = (OVRs[11:] + OVRs[:11],"win")
+                    new_ds.remove(example)
+                    target -= 1
+                if target == 0:
+                    break
+        self.dataset = new_ds
         self.shuffle()
-

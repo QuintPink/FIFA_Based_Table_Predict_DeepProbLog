@@ -9,6 +9,9 @@ from get_implicit_network import get_implicit_network
 
 """
 Run by running python file run_explicit.py
+
+Train explicit match outcome predictor (W,L)
+
 """
 def run():
     dataset = MatchDataset()
